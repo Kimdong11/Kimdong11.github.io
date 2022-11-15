@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28e62704.css",
+    "main.js": "/static/js/main.40306754.js",
+    "static/media/tway_air.ttf": "/static/media/tway_air.2ae99103669383455f35.ttf",
+    "index.html": "/index.html",
+    "main.28e62704.css.map": "/static/css/main.28e62704.css.map",
+    "main.40306754.js.map": "/static/js/main.40306754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e62704.css",
+    "static/js/main.40306754.js"
+  ]
+}
